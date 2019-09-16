@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/sidoosh/live-stock-app/static/css/main.d4439f28.chunk.css",
-    "main.js": "/sidoosh/live-stock-app/static/js/main.2edbe306.chunk.js",
-    "main.js.map": "/sidoosh/live-stock-app/static/js/main.2edbe306.chunk.js.map",
-    "runtime~main.js": "/sidoosh/live-stock-app/static/js/runtime~main.87ebb81f.js",
-    "runtime~main.js.map": "/sidoosh/live-stock-app/static/js/runtime~main.87ebb81f.js.map",
-    "static/css/2.8c467cd4.chunk.css": "/sidoosh/live-stock-app/static/css/2.8c467cd4.chunk.css",
-    "static/js/2.c6eeff92.chunk.js": "/sidoosh/live-stock-app/static/js/2.c6eeff92.chunk.js",
-    "static/js/2.c6eeff92.chunk.js.map": "/sidoosh/live-stock-app/static/js/2.c6eeff92.chunk.js.map",
-    "index.html": "/sidoosh/live-stock-app/index.html",
-    "precache-manifest.8f3f8dca83fa29c991b305783372c7ae.js": "/sidoosh/live-stock-app/precache-manifest.8f3f8dca83fa29c991b305783372c7ae.js",
-    "service-worker.js": "/sidoosh/live-stock-app/service-worker.js",
-    "static/css/2.8c467cd4.chunk.css.map": "/sidoosh/live-stock-app/static/css/2.8c467cd4.chunk.css.map",
-    "static/css/main.d4439f28.chunk.css.map": "/sidoosh/live-stock-app/static/css/main.d4439f28.chunk.css.map",
-    "static/media/AppHeader.css": "/sidoosh/live-stock-app/static/media/mediadotnet-logo.3dc73d92.jpg"
+    "main.css": "/sidoosh/stocks-app/static/css/main.3cb6fbac.chunk.css",
+    "main.js": "/sidoosh/stocks-app/static/js/main.2edbe306.chunk.js",
+    "main.js.map": "/sidoosh/stocks-app/static/js/main.2edbe306.chunk.js.map",
+    "runtime~main.js": "/sidoosh/stocks-app/static/js/runtime~main.cb55f2ab.js",
+    "runtime~main.js.map": "/sidoosh/stocks-app/static/js/runtime~main.cb55f2ab.js.map",
+    "static/css/2.8c467cd4.chunk.css": "/sidoosh/stocks-app/static/css/2.8c467cd4.chunk.css",
+    "static/js/2.65c8cae0.chunk.js": "/sidoosh/stocks-app/static/js/2.65c8cae0.chunk.js",
+    "static/js/2.65c8cae0.chunk.js.map": "/sidoosh/stocks-app/static/js/2.65c8cae0.chunk.js.map",
+    "index.html": "/sidoosh/stocks-app/index.html",
+    "precache-manifest.e02361134ea1bda48674ad4edea3bfd7.js": "/sidoosh/stocks-app/precache-manifest.e02361134ea1bda48674ad4edea3bfd7.js",
+    "service-worker.js": "/sidoosh/stocks-app/service-worker.js",
+    "static/css/2.8c467cd4.chunk.css.map": "/sidoosh/stocks-app/static/css/2.8c467cd4.chunk.css.map",
+    "static/css/main.3cb6fbac.chunk.css.map": "/sidoosh/stocks-app/static/css/main.3cb6fbac.chunk.css.map",
+    "static/media/AppHeader.css": "/sidoosh/stocks-app/static/media/mediadotnet-logo.3dc73d92.jpg"
   }
 }
