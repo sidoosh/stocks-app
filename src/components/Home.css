@@ -1,0 +1,13 @@
+.ant-spin-spinning {
+  display: flex;
+  opacity: 1;
+  height: 90vh;
+  justify-content: center;
+  align-items: center;
+  font-size: 38px;
+}
+
+.container {
+  display: flex;
+  background-color: white;
+}
