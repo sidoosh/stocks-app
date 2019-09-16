@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/sidoosh/stocks-app/precache-manifest.e02361134ea1bda48674ad4edea3bfd7.js"
+  "/sidoosh/stocks-app/precache-manifest.bcabbb4622c7256b6b5f46e4c5ea5e71.js"
 );
 
 self.addEventListener('message', (event) => {

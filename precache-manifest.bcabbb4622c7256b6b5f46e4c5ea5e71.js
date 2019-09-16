@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a2257a647e8df037491169964842f55a",
+    "revision": "98cd5a02c45619df0fdbb464ce927129",
     "url": "/sidoosh/stocks-app/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/sidoosh/stocks-app/static/css/2.8c467cd4.chunk.css"
   },
   {
-    "revision": "f0c831d554f78d3f0376",
+    "revision": "e529d1c642a61f4bc959",
     "url": "/sidoosh/stocks-app/static/css/main.3cb6fbac.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/sidoosh/stocks-app/static/js/2.65c8cae0.chunk.js"
   },
   {
-    "revision": "f0c831d554f78d3f0376",
-    "url": "/sidoosh/stocks-app/static/js/main.2edbe306.chunk.js"
+    "revision": "e529d1c642a61f4bc959",
+    "url": "/sidoosh/stocks-app/static/js/main.b348ee81.chunk.js"
   },
   {
     "revision": "54cb4dbb0bd01c4a6674",

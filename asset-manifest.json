@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/sidoosh/stocks-app/static/css/main.3cb6fbac.chunk.css",
-    "main.js": "/sidoosh/stocks-app/static/js/main.2edbe306.chunk.js",
-    "main.js.map": "/sidoosh/stocks-app/static/js/main.2edbe306.chunk.js.map",
+    "main.js": "/sidoosh/stocks-app/static/js/main.b348ee81.chunk.js",
+    "main.js.map": "/sidoosh/stocks-app/static/js/main.b348ee81.chunk.js.map",
     "runtime~main.js": "/sidoosh/stocks-app/static/js/runtime~main.cb55f2ab.js",
     "runtime~main.js.map": "/sidoosh/stocks-app/static/js/runtime~main.cb55f2ab.js.map",
     "static/css/2.8c467cd4.chunk.css": "/sidoosh/stocks-app/static/css/2.8c467cd4.chunk.css",
     "static/js/2.65c8cae0.chunk.js": "/sidoosh/stocks-app/static/js/2.65c8cae0.chunk.js",
     "static/js/2.65c8cae0.chunk.js.map": "/sidoosh/stocks-app/static/js/2.65c8cae0.chunk.js.map",
     "index.html": "/sidoosh/stocks-app/index.html",
-    "precache-manifest.e02361134ea1bda48674ad4edea3bfd7.js": "/sidoosh/stocks-app/precache-manifest.e02361134ea1bda48674ad4edea3bfd7.js",
+    "precache-manifest.bcabbb4622c7256b6b5f46e4c5ea5e71.js": "/sidoosh/stocks-app/precache-manifest.bcabbb4622c7256b6b5f46e4c5ea5e71.js",
     "service-worker.js": "/sidoosh/stocks-app/service-worker.js",
     "static/css/2.8c467cd4.chunk.css.map": "/sidoosh/stocks-app/static/css/2.8c467cd4.chunk.css.map",
     "static/css/main.3cb6fbac.chunk.css.map": "/sidoosh/stocks-app/static/css/main.3cb6fbac.chunk.css.map",
