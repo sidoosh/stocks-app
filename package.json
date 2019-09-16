@@ -1,11 +1,13 @@
 {
   "name": "client",
   "version": "0.1.0",
+  "homepage": "https://github.com/sidoosh/repository-name",
   "private": true,
   "dependencies": {
     "and": "0.0.3",
     "antd": "^3.23.2",
     "apexcharts": "^3.8.6",
+    "gh-pages": "^2.1.1",
     "lodash": "^4.17.15",
     "moment": "^2.24.0",
     "react": "^16.9.0",
@@ -15,7 +17,6 @@
     "react-redux": "^7.1.1",
     "react-scripts": "3.1.0",
     "react-timeago": "^4.4.0",
-    "recharts": "^1.7.1",
     "redux": "^4.0.4",
     "redux-saga": "^1.0.5"
   },
@@ -23,6 +24,8 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
