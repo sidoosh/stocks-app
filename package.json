@@ -1,7 +1,7 @@
 {
   "name": "client",
   "version": "0.1.0",
-  "homepage": "https://github.com/sidoosh/repository-name",
+  "homepage": "https://github.com/sidoosh/live-stock-app",
   "private": true,
   "dependencies": {
     "and": "0.0.3",
