@@ -1,14 +1,28 @@
 import React from 'react';
-import { Layout, Modal } from 'antd';
+import { Layout } from 'antd';
 import { AppHeader } from './components/AppHeader';
 import Home from '../src/components/Home';
-import { connect } from 'react-redux';
+import UnsafeScriptWarning from './components/UnsafeScriptWarning';
 
 class App extends React.PureComponent {
+  state = {
+    hasError: false,
+  };
+
+  static getDerivedStateFromError(error) {
+    return {
+      hasError: true,
+    };
+  }
+
+  componentDidCatch(error, info) {
+    console.log(error, info);
+  }
+
   render() {
-    const { hasError, errorMessage } = this.props;
+    const { hasError } = this.state;
     return hasError ? (
-      Modal.error({ content: errorMessage, title: 'Error' })
+      <UnsafeScriptWarning />
     ) : (
       <div className='App'>
         <Layout className='appLayout'>
@@ -22,7 +36,4 @@ class App extends React.PureComponent {
   }
 }
 
-export default connect(({ hasError, errorMessage }) => ({
-  hasError,
-  errorMessage,
-}))(App);
+export default App;
