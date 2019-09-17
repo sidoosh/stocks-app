@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/sidoosh/stocks-app/static/css/main.3cb6fbac.chunk.css",
-    "main.js": "/sidoosh/stocks-app/static/js/main.b348ee81.chunk.js",
-    "main.js.map": "/sidoosh/stocks-app/static/js/main.b348ee81.chunk.js.map",
-    "runtime~main.js": "/sidoosh/stocks-app/static/js/runtime~main.cb55f2ab.js",
-    "runtime~main.js.map": "/sidoosh/stocks-app/static/js/runtime~main.cb55f2ab.js.map",
-    "static/css/2.8c467cd4.chunk.css": "/sidoosh/stocks-app/static/css/2.8c467cd4.chunk.css",
-    "static/js/2.65c8cae0.chunk.js": "/sidoosh/stocks-app/static/js/2.65c8cae0.chunk.js",
-    "static/js/2.65c8cae0.chunk.js.map": "/sidoosh/stocks-app/static/js/2.65c8cae0.chunk.js.map",
-    "index.html": "/sidoosh/stocks-app/index.html",
-    "precache-manifest.bcabbb4622c7256b6b5f46e4c5ea5e71.js": "/sidoosh/stocks-app/precache-manifest.bcabbb4622c7256b6b5f46e4c5ea5e71.js",
-    "service-worker.js": "/sidoosh/stocks-app/service-worker.js",
-    "static/css/2.8c467cd4.chunk.css.map": "/sidoosh/stocks-app/static/css/2.8c467cd4.chunk.css.map",
-    "static/css/main.3cb6fbac.chunk.css.map": "/sidoosh/stocks-app/static/css/main.3cb6fbac.chunk.css.map",
-    "static/media/AppHeader.css": "/sidoosh/stocks-app/static/media/mediadotnet-logo.3dc73d92.jpg"
+    "main.css": "/stocks-app/static/css/main.bf823f92.chunk.css",
+    "main.js": "/stocks-app/static/js/main.b348ee81.chunk.js",
+    "main.js.map": "/stocks-app/static/js/main.b348ee81.chunk.js.map",
+    "runtime~main.js": "/stocks-app/static/js/runtime~main.f9a297d3.js",
+    "runtime~main.js.map": "/stocks-app/static/js/runtime~main.f9a297d3.js.map",
+    "static/css/2.8c467cd4.chunk.css": "/stocks-app/static/css/2.8c467cd4.chunk.css",
+    "static/js/2.f90e1ae5.chunk.js": "/stocks-app/static/js/2.f90e1ae5.chunk.js",
+    "static/js/2.f90e1ae5.chunk.js.map": "/stocks-app/static/js/2.f90e1ae5.chunk.js.map",
+    "index.html": "/stocks-app/index.html",
+    "precache-manifest.48749e582221018b55a899ae6c30de66.js": "/stocks-app/precache-manifest.48749e582221018b55a899ae6c30de66.js",
+    "service-worker.js": "/stocks-app/service-worker.js",
+    "static/css/2.8c467cd4.chunk.css.map": "/stocks-app/static/css/2.8c467cd4.chunk.css.map",
+    "static/css/main.bf823f92.chunk.css.map": "/stocks-app/static/css/main.bf823f92.chunk.css.map",
+    "static/media/AppHeader.css": "/stocks-app/static/media/mediadotnet-logo.3dc73d92.jpg"
   }
 }
