@@ -17,6 +17,7 @@ class App extends React.PureComponent {
 
   componentDidCatch(error, info) {
     console.log(error, info);
+    this.setState({ hasError: true });
   }
 
   render() {
