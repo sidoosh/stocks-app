@@ -18,7 +18,8 @@ function createSocketChannel() {
 
     const errorHandler = errorEvent => {
       // create an Error object and put it into the channel
-      emit(new Error(errorEvent));
+      console.log('Connection error');
+      emit(errorEvent);
     };
     // setup the subscription
     ws.addEventListener('error', errorHandler);

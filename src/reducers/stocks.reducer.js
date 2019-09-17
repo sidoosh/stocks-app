@@ -71,7 +71,7 @@ export function stocksReducer(state = initialState, action) {
       const error = action.payload;
       return {
         ...state,
-        hasError: true,
+        hasConnectionError: true,
         errorMessage: error,
       };
     }

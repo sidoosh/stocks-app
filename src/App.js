@@ -3,6 +3,7 @@ import { Layout } from 'antd';
 import { AppHeader } from './components/AppHeader';
 import Home from '../src/components/Home';
 import UnsafeScriptWarning from './components/UnsafeScriptWarning';
+import { connect } from 'react-redux';
 
 class App extends React.PureComponent {
   state = {
@@ -16,13 +17,13 @@ class App extends React.PureComponent {
   }
 
   componentDidCatch(error, info) {
-    console.log(error, info);
     this.setState({ hasError: true });
   }
 
   render() {
     const { hasError } = this.state;
-    return hasError ? (
+    const { hasConnectionError } = this.props;
+    return hasConnectionError || hasError ? (
       <UnsafeScriptWarning />
     ) : (
       <div className='App'>
@@ -37,4 +38,6 @@ class App extends React.PureComponent {
   }
 }
 
-export default App;
+export default connect(({ hasConnectionError }) => ({
+  hasConnectionError,
+}))(App);
