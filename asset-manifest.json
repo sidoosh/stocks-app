@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/stocks-app/static/css/main.bf823f92.chunk.css",
-    "main.js": "/stocks-app/static/js/main.801d3b87.chunk.js",
-    "main.js.map": "/stocks-app/static/js/main.801d3b87.chunk.js.map",
+    "main.css": "/stocks-app/static/css/main.df8f5feb.chunk.css",
+    "main.js": "/stocks-app/static/js/main.0bf7cc1f.chunk.js",
+    "main.js.map": "/stocks-app/static/js/main.0bf7cc1f.chunk.js.map",
     "runtime~main.js": "/stocks-app/static/js/runtime~main.f9a297d3.js",
     "runtime~main.js.map": "/stocks-app/static/js/runtime~main.f9a297d3.js.map",
     "static/css/2.8c467cd4.chunk.css": "/stocks-app/static/css/2.8c467cd4.chunk.css",
-    "static/js/2.dee6cf42.chunk.js": "/stocks-app/static/js/2.dee6cf42.chunk.js",
-    "static/js/2.dee6cf42.chunk.js.map": "/stocks-app/static/js/2.dee6cf42.chunk.js.map",
+    "static/js/2.1865502e.chunk.js": "/stocks-app/static/js/2.1865502e.chunk.js",
+    "static/js/2.1865502e.chunk.js.map": "/stocks-app/static/js/2.1865502e.chunk.js.map",
     "index.html": "/stocks-app/index.html",
-    "precache-manifest.dc08841bb87fdeae7e2ad45add339279.js": "/stocks-app/precache-manifest.dc08841bb87fdeae7e2ad45add339279.js",
+    "precache-manifest.e3eec20cab6863f1e4d90c69899455f0.js": "/stocks-app/precache-manifest.e3eec20cab6863f1e4d90c69899455f0.js",
     "service-worker.js": "/stocks-app/service-worker.js",
     "static/css/2.8c467cd4.chunk.css.map": "/stocks-app/static/css/2.8c467cd4.chunk.css.map",
-    "static/css/main.bf823f92.chunk.css.map": "/stocks-app/static/css/main.bf823f92.chunk.css.map",
+    "static/css/main.df8f5feb.chunk.css.map": "/stocks-app/static/css/main.df8f5feb.chunk.css.map",
     "static/media/AppHeader.css": "/stocks-app/static/media/mediadotnet-logo.3dc73d92.jpg"
   }
 }
