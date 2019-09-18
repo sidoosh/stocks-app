@@ -8,11 +8,12 @@ import ReactApexChart from 'react-apexcharts';
 import ApexChart from 'apexcharts';
 import { options } from '../utils/helper';
 import moment from 'moment';
+import './StockGraph.css';
 
 const getButtons = (data, handleSelectedTab) => {
   return data.map(item => (
     <Button
-      style={{ padding: '0 14px' }}
+      className='button'
       value={item.stockName}
       key={item.stockName}
       type={item.isSelected ? 'primary' : 'default'}
@@ -97,7 +98,7 @@ class StockGraph extends React.Component {
       : [];
 
     return (
-      <div style={{ width: '68%' }}>
+      <div className='graphContainer' style={{ width: '68%' }}>
         {radioButtons}
         <ReactApexChart
           type='line'

@@ -1,6 +1,7 @@
 import React, { PureComponent } from 'react';
 import { Table, Icon } from 'antd';
 import TimeAgo from 'react-timeago';
+import './StockTable.css';
 
 const columns = [
   {
@@ -30,7 +31,7 @@ const columns = [
     },
   },
   {
-    title: '% Change',
+    title: '%Change',
     dataIndex: 'changePercent',
     key: 'changePercent',
     render: changePercent => {
@@ -63,7 +64,7 @@ class StockTable extends PureComponent {
     const dataSource = modifyData(data);
 
     return (
-      <div style={{ width: '37%' }}>
+      <div className='tableContainer'>
         <Table
           columns={columns}
           dataSource={dataSource}
@@ -71,8 +72,8 @@ class StockTable extends PureComponent {
           showHeader
           rowKey='stockName'
           pagination={{
-            defaultPageSize: 8,
-            pageSize: 8,
+            defaultPageSize: 7,
+            pageSize: 7,
           }}
         />
       </div>

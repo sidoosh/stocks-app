@@ -1,0 +1,13 @@
+.graphContainer {
+  width: 66%;
+  padding: 10px 15px;
+  background: white;
+  margin-right: 15px;
+  height: 100%;
+  position: relative;
+  box-shadow: 0 2px 4px 0 #c5cbce;
+}
+
+.button {
+  padding: 0 10px;
+}
